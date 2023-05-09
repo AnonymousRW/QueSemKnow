@@ -20,4 +20,4 @@ Towards Query Semantic and Knowledge Guided Multi-Span Medical Question Answerin
 
 ### For baselines:
 
-    Please go to respective folders and train as dicussed above. 
+    Please go to respective folder and train as dicussed above. 
